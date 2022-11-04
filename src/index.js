@@ -1,9 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App';
+import App from './wordleApp';
 
-ReactDOM.render(<h1>wordleGame</h1>,document.getElementById('root'));
-
+ReactDOM.render(<App/>,document.getElementById('root'));
 
 
