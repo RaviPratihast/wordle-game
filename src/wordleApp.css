@@ -1,0 +1,11 @@
+.game-container>header{
+    border-bottom: 2px solid white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.game-container>header>h1{
+    color:var(--text-color);
+}
